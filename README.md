@@ -44,3 +44,16 @@ This form contains 3 steps:
 2. Email input (with validation)
 3. Password input (min 6 characters)
 
+# Question 03 – API Fetch with Pagination
+
+A simple React app that fetches data from a public API and displays it with pagination and loading state.
+
+##  Features
+- Fetch data from public API
+- Pagination (10 items per page)
+- Loading state while fetching data
+
+## Tech Stack
+- React (Vite)
+- Tailwind CSS
+
