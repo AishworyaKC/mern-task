@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.to-do-container {
+  @apply min-h-screen bg-gray-100 flex items-center justify-center p-4;
+  .to-do-list {
+    @apply bg-white p-6 rounded-lg shadow-md w-full max-w-md;
+  }
+  h1 {
+    @apply text-2xl font-bold mb-4 text-center;
+  }
+}
