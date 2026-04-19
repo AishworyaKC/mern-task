@@ -1,3 +1,21 @@
+# Question 01 – Responsive Landing Page
+
+A simple responsive landing page built using semantic HTML and modern CSS with a mobile-first approach.
+
+##  Features
+- Semantic HTML structure
+- Flexbox and Grid usage
+
+## Tech Stack
+- HTML5
+- CSS3
+
+##  Responsive Design
+This page is fully responsive and works on:
+- Mobile devices
+- Tablets
+- Desktop screens
+
 # Question 02 – Multi Step Form
 
 A simple multi-step form built using React and Tailwind CSS with controlled inputs and basic validation.
