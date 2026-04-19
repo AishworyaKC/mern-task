@@ -57,3 +57,21 @@ A simple React app that fetches data from a public API and displays it with pagi
 - React (Vite)
 - Tailwind CSS
 
+# Question 04- Application
+
+A simple Todo application built using React with add, edit, delete functionality and persistent storage using localStorage.
+
+##  Features
+- Add new todos
+- Edit existing todos
+- Delete todos
+- Data persists using localStorage
+
+##  Tech Stack
+- React (Vite)
+- JavaScript
+- Tailwind CSS
+
+## Storage
+All todos are saved in browser localStorage so data remains even after refresh.
+
