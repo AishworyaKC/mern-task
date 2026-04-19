@@ -75,3 +75,20 @@ A simple Todo application built using React with add, edit, delete functionality
 ## Storage
 All todos are saved in browser localStorage so data remains even after refresh.
 
+# Question 09 – React Router 
+
+A simple React app demonstrating routing and dynamic routing using React Router.
+
+##  Features
+- Basic routing (Home, About)
+- Dynamic routing using URL params
+- Navigation using Link component
+
+##  Routes
+- `/` → Home Page,`/about` → About Page,`/user/:id` → Dynamic User Page
+
+##  Tech Stack
+- React (Vite)
+- React Router DOM
+- Tailwind CSS
+
